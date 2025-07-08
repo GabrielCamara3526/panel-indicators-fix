@@ -1,0 +1,6 @@
+/* targets the stripe underneath the icon at the bottom */
+.grouped-window-list-item-box.bottom {
+  border-bottom-width: 4px; /* thicker stripe */
+  border-bottom-style: solid;
+  /*border-bottom-color: #FF0000; /* red stripe, adjust as needed */
+}

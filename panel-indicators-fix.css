@@ -1,0 +1,7 @@
+/* targets the active apps indication stripes of the icons at the panel. */
+.grouped-window-list-item-box.bottom {
+  border-bottom-width: 4px; /* thicker stripe. Adjust as needed */
+  border-bottom-style: solid;
+  /*border-bottom-color: #FF0000; */ 
+  /* set red stripe color, leave it unchanged to keep the original color */
+}

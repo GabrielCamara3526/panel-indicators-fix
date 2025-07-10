@@ -1,5 +1,5 @@
 # About
-Panel indicators Fix is a solution focused on improving the visibility of UI elements on the long-term adopted Windows Quick List applet available out of the box on Linux Mint Cinnamon flavor
+Panel indicators Fix is a solution for the visibility of UI elements on the long-term adopted Windows Quick List applet available out of the box on Linux Mint Cinnamon flavor
 ### before:
 ![before-panel-fix](https://github.com/user-attachments/assets/8a259939-9acf-40a1-958e-674eaf184d21)
 
